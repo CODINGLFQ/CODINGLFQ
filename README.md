@@ -11,11 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## :mortar_board:
 -->
 
 # Hi there! 👋
 
-## :mortar_board:
 **你知道的越多，你不知道的越多**. 🧠
 
 ## What I know :computer:
