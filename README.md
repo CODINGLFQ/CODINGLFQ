@@ -15,36 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my github! 👋
-About me 🎓
+# Welcome to my github! 👋
 
-From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that no amount of knowledge is enough knowledge. 🧠
-What I know 💻
+<div align="center">
+	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+</div>
 
-    Competitive Programming
-        Java ❤️
-        Erlang
-        Python
-        Some C#
-    Frontend Development
-        HTML, CSS and Javascript ✅
-        Layui
-        Bootstrap
+## About me :mortar_board:
+From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **你知道的越多，你不知道的越多**. 🧠
 
-What I want to do next 🤔
+## What I know :computer:
+- **Competitive Programming**
+	- Java ❤️
+	- Python Erlang
+	- Some C#
+- **Frontend Development**
+	- HTML, CSS and Javascript :white_check_mark:
+    - layui
+	- Bootstrap
 
-    Backend Development (to become a Full-Stack developer)
-    At least delve into AI and ML.
-    Unlock the secret to the universe 🤣
+## Reach me 
+[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/reallfq/)](https://www.instagram.com/reallfq/)
 
-Reach me
-
-<!--
-Github Instagram Linkedin Mail
-Interesting stats -->
-
-Sarthak's stats
-
-Thanks for stopping by! 😁
-
-⭐️ From L
+⭐️ From [CODINGLFQ](https://github.com/CODINGLFQ)
