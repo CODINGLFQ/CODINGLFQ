@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my github! 👋
+# Hi there! 👋
 
 ## About me :mortar_board:
-From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **你知道的越多，你不知道的越多**. 🧠
+**你知道的越多，你不知道的越多**. 🧠
 
 ## What I know :computer:
 - **Competitive Programming**
@@ -25,8 +25,7 @@ From very early on in my life, I started to fall in love with technology 😍 Th
 	- Some C#
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
-   	- layui
-	- Bootstrap
+   	- layui Bootstrap
 
 ## Reach me ⭐️
 [![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/reallfq/)](https://www.instagram.com/reallfq/)
