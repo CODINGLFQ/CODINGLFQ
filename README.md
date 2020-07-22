@@ -28,5 +28,5 @@ Here are some ideas to get you started:
    	- layui Bootstrap
 
 ## Reach me ⭐️
-[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/reallfq/)](https://www.instagram.com/reallfq/)
+[![Instagram](https://img.shields.io/badge/-@reallfq-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/reallfq/)](https://www.instagram.com/reallfq/)
 
