@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 ## What I know :computer:
 - **Competitive Programming**
 	- Java ❤️
-	- Python Erlang
-	- Some C#
+	- Erlang
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
-   	- layui Bootstrap
+   	- Layui Bootstrap
 
 ## Reach me ⭐️
 [![Instagram](https://img.shields.io/badge/-@reallfq-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/reallfq/)](https://www.instagram.com/reallfq/)
